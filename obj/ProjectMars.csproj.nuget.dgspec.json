@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\MarsOnboardingTask\\ProjectMars.csproj": {}
+    "A:\\On-Boarding-Task\\ProjectMars.csproj": {}
   },
   "projects": {
-    "A:\\MarsOnboardingTask\\ProjectMars.csproj": {
+    "A:\\On-Boarding-Task\\ProjectMars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\MarsOnboardingTask\\ProjectMars.csproj",
+        "projectUniqueName": "A:\\On-Boarding-Task\\ProjectMars.csproj",
         "projectName": "ProjectMars",
-        "projectPath": "A:\\MarsOnboardingTask\\ProjectMars.csproj",
+        "projectPath": "A:\\On-Boarding-Task\\ProjectMars.csproj",
         "packagesPath": "C:\\Users\\anjal\\.nuget\\packages\\",
-        "outputPath": "A:\\MarsOnboardingTask\\obj\\",
+        "outputPath": "A:\\On-Boarding-Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjal\\AppData\\Roaming\\NuGet\\NuGet.Config",
